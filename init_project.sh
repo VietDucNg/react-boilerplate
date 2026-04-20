@@ -1,5 +1,3 @@
-npm create vite@latest . -- --template react
-
 rm src/index.css
 rm src/App.css
 
