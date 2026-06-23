@@ -3,6 +3,9 @@ rm src/App.css
 
 mkdir src/components
 
-mv reset.css src/
-mv index.css src/
-mv src/App.jsx src/components/App.jsx
+mv theme.jsx src/theme.jsx
+mv App.jsx src/App.jsx
+
+npm install @mui/material @emotion/react @emotion/styled
+npm install @fontsource/roboto
+npm install @mui/icons-material
