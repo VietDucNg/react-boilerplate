@@ -1,6 +1,6 @@
 import { ThemeProvider } from "@mui/material/styles";
 import { CssBaseline, Container } from "@mui/material";
-import getTheme from "../theme";
+import getTheme from "./theme";
 import { useMemo, useState } from "react";
 
 function App() {
